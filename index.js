@@ -1,0 +1,1 @@
+prompt('Its all about js')
